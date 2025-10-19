@@ -7,6 +7,10 @@ Works great alongside **Home Assistant**, but **does not depend on it** – conn
 
 ---
 
+<img width="1891" height="775" alt="image" src="https://github.com/user-attachments/assets/a3915b60-4210-4b24-8932-af2d1f8e08f2" />
+
+
+
 ## ✅ Features
 
 - Control evcc modes: **Start (now), Stop (off), PV, MinPV**
